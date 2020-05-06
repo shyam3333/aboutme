@@ -1,0 +1,156 @@
+body{
+  margin:0;
+  text-align: center;
+  font-family: 'Merriweather',serif;
+}
+
+hr{
+border-color:grey;
+border-width:5px;
+border-style:none;
+border-top-style:dotted;
+width:5%;
+}
+
+.skill-row{
+  width:50%;
+  margin:100px auto 100px auto;
+  text-align: left;
+}
+
+h1{
+  font-size:5.625rem;
+  margin:50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  color:#66BFBF;
+  line-height: 2;
+}
+
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size:2.5rem;
+  color:#66BFBF;
+  font-weight: normal;
+}
+
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color:#11999E;
+}
+
+.intro{
+width:30%;
+margin:auto;
+}
+
+.bottomcloud{
+  position:absolute;
+  left:300px;
+  bottom:300px;
+}
+
+.topcloud{
+  position: absolute;
+  top:50px;
+  right:300px;
+}
+
+.pro{
+  text-decoration: underline;
+}
+
+.top-container{
+background-color: #c3edea;
+position:relative;
+padding-top:100px;
+}
+
+.facebook{
+  color:#11999E;
+  position:relative;
+  top:20px;
+  font-weight:bold;
+  margin-right:20px;
+}
+
+.steam{
+  color:#11999E;
+  position:relative;
+  top:20px;
+  font-weight:bold;
+  margin-right:20px;
+}
+
+.linkedin{
+  color:#11999E;
+  position:relative;
+  top:20px;
+  font-weight:bold;
+}
+
+.data{
+  position:relative;
+  top:50px;
+  color:white;
+  font-size:10px;
+}
+
+.Computer-Games{
+  float:left;
+  width:25%;
+  margin-right: 30px;
+}
+
+.Table-Tennis{
+  float:right;
+  width:25%;
+  margin-left: 30px;
+}
+
+.bottom-container{
+  background-color: #66BFBF;
+  height:150px;
+}
+
+p{
+  font-weight: bold;
+  line-height: 2;
+}
+
+.data2{
+  padding-bottom: 20px;
+  padding-top:50px;
+}
+
+.middle-container{
+  margin:70px 0;
+}
+
+a:hover{
+  color:white;
+}
+.myButton {
+	box-shadow:inset 0 1px 0 0 #66BFBF;
+	background:linear-gradient(to bottom, #11cdd4 5%, #11999E 100%);
+	background-color:#66BFBF;
+	border-radius:10px;
+	border:2px solid #66BFBF;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:'Montserrat', sans-serif;
+	font-size:20px;
+	font-weight:bold;
+	padding:10px 24px;
+	text-decoration:none;
+	text-shadow:0 1px 0 #3d768a;
+  margin:20px;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #30e3cb 5%, #2bc4ad 100%);
+	background-color:#66BFBF;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
